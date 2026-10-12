@@ -104,16 +104,6 @@ I enjoy turning ideas into practical solutions, exploring modern technologies, a
 
 ---
 
-## `> contribution_graph`
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/NuckyDuck/NuckyDuck/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
-
-</div>
-
----
-
 ## `> philosophy`
 
 ```text
